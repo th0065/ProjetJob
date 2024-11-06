@@ -1,0 +1,20 @@
+- comme il n y a de base de donnée dans les technologies alors je n'en ai pas mis
+
+- pour que le projet puisse être testé il faut le mettre dans un environneent ayant php (dans notre cas cela serait xampp ou un equivation ayant php 8 ) 
+
+- on place le projet dans htdocs
+
+- pour y acceder on demarre apache dans xampp ou equivalent et on se rend sur un navigateur ensuite on met dans notre cas: 
+
+    -pour projet_1
+     http://localhost/ProjetJob/Projet_1/html/contact.html
+
+    -pour projet_2
+    http://localhost/ProjetJob/Projet_2/html/connexion.html
+
+    pour le test l'email choisi est : test@gmail.com  et son mot de passe est : mdp123
+
+    
+    NB: Je me suis limité à ce qui a été demandé.
+
+Je vous remercie pour l'attention esperant être contacté !!!
